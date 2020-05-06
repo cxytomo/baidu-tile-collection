@@ -1,7 +1,8 @@
 #运行代码
-
-npm install
-node index
+```
+npm install // 安装依赖
+node index //下载图片到本地路径下
+```
 
 #其他开源地图瓦片收集地址
 
